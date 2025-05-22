@@ -2,6 +2,10 @@
 
 APIconsumtion: Este Script relaiza una consulta a un api y visualiza la informacion atravez de interfaces diseñas en tkinter, solicitado como primer para requisito logearse en el aplicativo el cual contiene la informacion en una base de datos construida en SQLite 
 
+Credenciales pruebas:
+User: Admin
+Password: 1234
+
 Instalaciones del archivo APIconsumtion
 pip install requests pillow 
 
